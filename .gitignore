@@ -1,0 +1,6 @@
+
+# Bazel generated files
+bazel-*
+
+# Keep documentation PDFs frome being pushed
+*.pdf
